@@ -18,7 +18,7 @@
         "php": "^8.0",
         "ext-json": "*",
         "ext-pdo": "*",
-        "codeception/codeception": "*@dev"
+        "codeception/codeception": "^5.0.7"
     },
     "conflict": {
         "codeception/codeception": "<5.0"
